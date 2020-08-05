@@ -34,9 +34,8 @@ AKTU
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | Paras Singh |Faculty|CSE | UCER,PRAYAGRAJ | singhparascse99@gmail.com
-2 | Harsh Dhussa |Student|IT | UCER,PRAYAGRAJ | harshdhussa@gmail.com
-3 | Rishabh Shukla |Student|IT | UCER,PRAYAGRAJ | rishabhshukla321@gmail.com
-4 | Kshitiz Saxena |Student|IT | UCER,PRAYAGRAJ | kshitizspn2000@gmail.com
-5 | Akash Goswami |Student|IT | UCER,PRAYAGRAJ | ag28796@gmail.com 
+1 | Harsh Dhussa |Student|IT | UCER,PRAYAGRAJ | harshdhussa@gmail.com
+2 | Rishabh Shukla |Student|IT | UCER,PRAYAGRAJ | rishabhshukla321@gmail.com
+3 | Kshitiz Saxena |Student|IT | UCER,PRAYAGRAJ | kshitizspn2000@gmail.com
+4 | Akash Goswami |Student|IT | UCER,PRAYAGRAJ | ag28796@gmail.com 
 <br>

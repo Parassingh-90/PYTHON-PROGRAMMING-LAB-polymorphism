@@ -21,7 +21,7 @@ AKTU
 <b>Name of Developer | <b>Paras Nath Singh
 :--|:--|
 <b> Institute | <b> United college of engineering & Research
-<b> Email id|     <b> singhparascse99@gmail.com
+<b> Email id| <b> singhparascse99@gmail.com
 <b> Department |Computer Science & Engineering
 
 #### Mentor Details

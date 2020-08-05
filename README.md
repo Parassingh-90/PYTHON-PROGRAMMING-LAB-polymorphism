@@ -6,7 +6,7 @@
 <h5> About the Lab (Objective) :</h5>
 This lab is all about the programming language Python.
 <h5> About the Experiment:</h5>
-These programs give the basic idea about exception handling, regular expression, conditional and iterative statement.
+This program gives the basic idea about polymorphism.
 <h5> Target Audience:</h5>
 UNDERGRADUATE
 <h5> Course Alignment:</h5>

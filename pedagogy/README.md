@@ -43,12 +43,12 @@ Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 
 <a name="IS"></a>
 #### 3. Instructional Strategy
-###### Name of Instructional Strategy  :    <u> As per Handout
-###### Assessment Method: As per handout
+###### Name of Instructional Strategy  :    <u> Problem Based
+###### Assessment Method: summative
 
 <u> <b>Description: </b> of how you are going to implement the above Instructional Strategy in your Simulator: </u>
 <br>
- Brief description as per handout
+ Input the values radius or generate random value of radius to compute area and show step by step working of program.
 
 <br/>
 <div align="right">

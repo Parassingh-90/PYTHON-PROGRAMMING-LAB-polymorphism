@@ -65,8 +65,8 @@ Read the theory and comprehend the concepts related to the experiment. [LO1, LO2
 
 Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the simulator | Assessment Questions as per LO & Task
 :--|:--|:--|:-:
-1.| LO's as described in section 1 <br> Next line here. | Type the task that <br> student will perform | Type the question that will assess what student has learnt
-2.| LO's as described in section 1 <br> Next line here. | Type the task that <br> student will perform | 1 Question in detail <br> A. Option <br> B. Option <br> C. Option <br> <b> D. Option </b> <br> (mark correct option as bold text)
+1.| User will be able to understand the concept of polymorphism  1 <br> and try to give example based polymorphism. |  | Define polymorphism
+2.| User will be able to apply the concept of polymorphism  1 <br> and try to solve the problem . | to compute area of circle, square and triangle | 1 What is the biggest reason for the use of polymorphism <br> A. It allows the programmer to think at a more abstract level  <br> B. There is less program code to write <br> C. The program will have a more elegant design and will be easier to maintain and update <br> <b> D. Program code takes up less space  </b> <br> (C)
 
 
 You can add more question. All questions may not be as MCQ

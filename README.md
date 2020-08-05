@@ -2,12 +2,8 @@
 <b>Discipline | <b>Computer Science & Engineering
 :--|:--|
 <b> Lab | <b>PYTHON PROGRAMMING LAB
-<b> Experiment|  <b>1. (5) 
-•	Write a program in python that throws an exception when there is an attempt to divide an integer or decimal value by zero.
-•	Write a program in python that will find out the particular grade for given marks.
-•	Write a program in python to print the table of given number.
-•	Write a program in python to find the sum of all digits present in a string using regular expression.
-•	Write a program in python to calculate the area of circle, square and triangle using polymorphism.
+<b> Experiment|  <b>
+  1.  •	Write a program in python to calculate the area of circle, square and triangle using polymorphism.
 <h5> About the Lab (Objective) :</h5>
 This lab is all about the programming language Python.
 <h5> About the Experiment:</h5>

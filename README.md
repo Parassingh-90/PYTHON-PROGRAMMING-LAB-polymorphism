@@ -18,11 +18,13 @@ UNDERGRADUATE
 The present lab is aligned with courses such as Python Programming Lab.
 <h5> Universities Mapped : </h5>
 AKTU
-<b>Name of Developer | <b>Paras Nath Singh
+  
+<b>Name of Developer | <b> Paras Nath Singh
 :--|:--|
-<b> Institute | <b> United college of engineering & Research
-<b> Email id | <b> singhparascse99@gmail.com
-<b> Department |Computer Science & Engineering
+<b> Institute | <b> United college of engineering and research
+<b> Email id|     <b> singhparascse99@gmail.com
+<b> Department | Computer Science & Engineering
+
 
 #### Mentor Details
 

@@ -35,7 +35,6 @@ Describe the pathway activites here : (Guide : Set the pathway activities in lin
 ##### 2.4 Set Challenges and Questions/Complexity/Variations in Questions:
 
 Q. Assume a method getArea() is overloaded, having 0, 1 and 2 parameters respectively. Which of the definition of overloaded method is more likely to be executed if overloaded method is called in such a way : getArea(0) ?<br><br>
-
 A. def getArea(var1,var2):<br>
 <b>B. def getArea(var1):</b><br>
 C. def getArea():<br>

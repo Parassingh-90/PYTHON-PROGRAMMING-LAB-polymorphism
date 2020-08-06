@@ -1,7 +1,5 @@
 ## Pedagogy (Round 1)
-<p align="center">
-
-<br>
+<p>
 <br>
 <b> To calculate the area of circle, square and triangle using polymorphism <a name="top"></a> <br>
 </p>

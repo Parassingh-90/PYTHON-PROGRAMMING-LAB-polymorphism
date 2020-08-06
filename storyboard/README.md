@@ -34,7 +34,13 @@ Describe the pathway activites here : (Guide : Set the pathway activities in lin
 
 ##### 2.4 Set Challenges and Questions/Complexity/Variations in Questions:
 
-Describe the challenges Here : (guide : Set Challenges and Questions/Complexity/variations in questions according to User’s level, so as to invoke the learners’ interest.  (while traversing, what challenges he will face? how he has to solve and overcome ? descriptive).)
+Q. Assume a method getArea() is overloaded, having 0, 1 and 2 parameters respectively. Which of the definition of overloaded method is more likely to be executed if overloaded method is called in such a way : getArea(0) ?<br><br>
+
+A. def getArea(var1,var2):<br>
+<b>B. def getArea(var1):</b><br>
+C. def getArea():<br>
+D. First declared definition of overloaded method<br>
+E. None of the above<br> 
 
 ##### 2.5 Allow pitfalls:
 Describe the pitfalls here: (guide : (while traversing or while solving challenge, how will we bring a situation in front of him that he commits mistake if he is not attentive , or not following procedure , descriptive))

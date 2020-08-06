@@ -2,7 +2,7 @@
 <b>Discipline | <b>Computer Science & Engineering
 :--|:--|
 <b> Lab | <b>PYTHON PROGRAMMING LAB
-<b> Experiment|  <b>1•	Write a program in python to calculate the area of circle, square and triangle using polymorphism.
+<b> Experiment|  <b>1•	Write a program in python to calculate the area of circle, rectangle and triangle using polymorphism.
 <h5> About the Lab (Objective) :</h5>
 This lab is all about the programming language Python.
 <h5> About the Experiment:</h5>

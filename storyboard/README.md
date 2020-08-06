@@ -6,7 +6,7 @@ Experiment 1: Name of the Experiment
 
 ### 1. Story Outline:
 
-Describe outline Here ( guide : The proposer should first draft the story outline for the proposed outline. This could be 2 or 3 paragraphs.)
+The experiment is based on the concept of polymorphism, implemented through python. Student approaches the simulator in order to understand the concept of polymorphism. Polymorphism means the ability to take various forms. In this experiment, a function called 'getArea()' is being overloaded with the help of different signatures i.e. different number of parameters for the shapes such as Triangle, Rectangle, and Circle. Student interacts with the simulator by providing some parameter values of a shape which can be a radius of a circle or length of sides of a shape in order to compute the area of corresponding shape. Simulator will provide not only the area of corresponding shape but also helps the student to understand the concept of polymorphism by providing the logical explanation of the output  i.e. how the area is being calculated.
 
 ### 2. Story:
 

@@ -20,9 +20,11 @@ In Python, we can create a method that can be called in different ways. So, we c
 Describe here : (guide When a user lands up into a simulator, the visual stage is the first thing that user comes across. The visual stage should include all the elements to be seen by a user on an imaginary canvas.  (This should NOT include any drawings. ) )
 
 #### 2.2 Set User Objectives & Goals:
-1. The prime objective of the experiment is to demonstrate Polymorphism in python. <br>
-2. To explain the working of method overloading. <br>
-3. To calculate the area of different shapes using method overloading. <br>
+1.	The prime objective of the experiment is to demonstrate Polymorphism in python and how it allows us to perform a single action in different ways.<br>
+2.	The simulator allows the user to input the desired dimensions and based on the input it performs single action (calculation of Area) using different ways.<br>
+3.	To explain how method overloading works and how signatures are used to differentiate between two function calls in the run time.<br>
+4.	To observe the output (Area) shown by the simulator when the user passes different no of inputs.<br>
+5.	To answer the assessment questions based on the observations.<br>
 
 #### 2.3 Set the Pathway Activities:
 

@@ -34,7 +34,9 @@ Describe conclusion here : (guide: This may include displaying: how much time di
 
 ##### 2.7 Equations/formulas: NA
 Area of Square: 
-$A=side^2$
+\begin{equation}
+A=Side^2
+\end{equation}
 
 
 ### 3. Flowchart 4

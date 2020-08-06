@@ -87,4 +87,4 @@ or type the correct answer below the question.
 
 Sr.No | What Students will do? |	What Simulator will do?	| Purpose of the task
 :--|:--|:--|:--:
-1.| Student will enter space separated  inputs<br> next line <br> next line | Area of different shapes will be produced as output based on the number of inpts given. Logical explaination will also be given. <br> next line  '  | User will be able to have practical knowledge of function overloading.
+1.| Student will enter space separated  inputs.| Area of different shapes will be produced as output based on the number of inpts given. Logical explaination will also be given. | User will be able to have practical knowledge of function overloading.

@@ -1,7 +1,6 @@
 ## Pedagogy (Round 1)
 <p align="center">
 
-Remove this line before submitting : To Refer a filled sample of this template visit here : <br> http://vlabs.iitb.ac.in/gitlab/Community-Docs/New-Lab-development/Samples
 <br>
 <br>
 <b> To calculate the area of circle, square and triangle using polymorphism <a name="top"></a> <br>

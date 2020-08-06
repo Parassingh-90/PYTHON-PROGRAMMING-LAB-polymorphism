@@ -10,7 +10,9 @@ The experiment is based on the concept of polymorphism, implemented through pyth
 
 ### 2. Story:
 
-Describe the Story intorduction here (guide : The next step is to write a story. Story should be a brief logical description in simple English. It should talk about the overall execution of the experiment in a simplified manner. (should not include any equations/ drawings). The story should include the following points) )
+Polymorphism is one of the core concepts in OOP languages. This experiment uses python programming language. Polymorphism means the ability to take more than one form. Polymorphism can be achieved either by method overloading or by method overriding. This experiment comprises of polymorphism by method overloading. 
+In method overloading, a method can be overloaded i.e. one function with same name can have more than one definition which is achieved with the help of different signature. Here signature means the number of parameters, data-type of parameters and order of parameters. Method overloading increases the readability of the program.
+Whenever the overloaded function is called the control matches the signature of called method with overloaded method. And executes the definition of the method whose signature is matched.
 
 #### 2.1 Set the Visual Stage Description:
 Describe here : (guide When a user lands up into a simulator, the visual stage is the first thing that user comes across. The visual stage should include all the elements to be seen by a user on an imaginary canvas.  (This should NOT include any drawings. ) )

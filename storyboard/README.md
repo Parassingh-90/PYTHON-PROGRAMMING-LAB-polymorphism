@@ -10,9 +10,12 @@ The experiment is based on the concept of polymorphism, implemented through pyth
 
 ### 2. Story:
 
-Polymorphism is one of the core concepts in OOP languages. This experiment uses python programming language. Polymorphism means the ability to take more than one form. Polymorphism can be achieved either by method overloading or by method overriding. This experiment comprises of polymorphism by method overloading. 
-In method overloading, a method can be overloaded i.e. one function with same name can have more than one definition which is achieved with the help of different signature. Here signature means the number of parameters, data-type of parameters and order of parameters. Method overloading increases the readability of the program.
-Whenever the overloaded function is called the control matches the signature of called method with overloaded method. And executes the definition of the method whose signature is matched.
+Polymorphism is derived from two Greek words: poly and morphs. The word "poly" means many and "morphs" means forms. So, polymorphism means many forms. Polymorphism is a concept by which we can perform a single action in different ways. An operation may exhibit different behavior in different class. The behavior depends on the type of data. We can perform polymorphism in python by method overloading and method overriding. Here, we will focus on method overloading. Method overloading in Python is a feature that allows to have multiple method with same name but different signature. Overloading is the ability of a method to behave in different ways based on the parameters that are passed to the method.<br>
+Advantage of method overloading are :<br>
+•	Overloading a method fosters reusability. For example, instead of writing multiple methods that differ only slightly, we can write one method and overload it.<br>
+•	Overloading also improves code clarity and eliminates complexity.<br>
+In Python, we can create a method that can be called in different ways. So, we can have a method that has zero, one or more number of parameters. Depending on the method definition, we can call it with zero, one or more arguments. Given a single method or function, the number of parameters can be specified. Whenever the overloaded function is called the control matches the signature of called method with overloaded method. And executes the definition of the method whose signature is matched. This process of calling the same method in different ways is called method overloading.
+
 
 #### 2.1 Set the Visual Stage Description:
 Describe here : (guide When a user lands up into a simulator, the visual stage is the first thing that user comes across. The visual stage should include all the elements to be seen by a user on an imaginary canvas.  (This should NOT include any drawings. ) )

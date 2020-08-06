@@ -1,13 +1,13 @@
 ## Pedagogy (Round 1)
 <p>
 <br>
-<b> To calculate the area of circle, square and triangle using polymorphism <a name="top"></a> <br>
+<b> Experiment: To calculate the area of circle, square and triangle using polymorphism <a name="top"></a> <br>
 </p>
 
 <b>Discipline | <b>Computer Science Engineering & Information Technology 
 :--|:--|
 <b> Lab | <b> PYTHON PROGRAMMING LAB
-<b> Experiment|     <b> 1. calculate the area of circle, square and triangle using polymorphism.
+<b> Experiment|     <b> 1. Calculate the area of circle, square and triangle using polymorphism.
 
 
 <h4> [1. Focus Area](#LO)

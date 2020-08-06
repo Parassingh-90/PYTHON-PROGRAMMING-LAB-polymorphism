@@ -42,7 +42,7 @@ Describe conclusion here : (guide: This may include displaying: how much time di
 ##### 2.7 Equations/formulas: NA
 <a href="https://www.codecogs.com/eqnedit.php?latex=\bg_white&space;Area&space;of&space;circle&space;=&space;\prod*r^{2}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\bg_white&space;Area&space;of&space;circle&space;=&space;\prod*r^{2}" title="Area of circle = \prod*r^{2}" /></a>
 <br>
-<a href="https://www.codecogs.com/eqnedit.php?latex=Area&space;of&space;square=&space;side*side" target="_blank"><img src="https://latex.codecogs.com/gif.latex?Area&space;of&space;square=&space;side*side" title="Area of square= side*side" /></a>
+<a href="https://www.codecogs.com/eqnedit.php?latex=Area&space;of&space;Rectangle:&space;length&space;\ast&space;breadth" target="_blank"><img src="https://latex.codecogs.com/gif.latex?Area&space;of&space;Rectangle:&space;length&space;\ast&space;breadth" title="Area of Rectangle: length \ast breadth" /></a>
 <br>
 <a href="https://www.codecogs.com/eqnedit.php?latex=Area&space;of&space;Triangle&space;:&space;\sqrt{p(p-a)(p-b)(p-c)}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?Area&space;of&space;Triangle&space;:&space;\sqrt{p(p-a)(p-b)(p-c)}" title="Area of Triangle : \sqrt{p(p-a)(p-b)(p-c)}" /></a>
 <br>

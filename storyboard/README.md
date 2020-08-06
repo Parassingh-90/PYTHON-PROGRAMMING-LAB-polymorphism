@@ -17,7 +17,7 @@ In Python, we can create a method that can be called in different ways. So, we c
 
 
 #### 2.1 Set the Visual Stage Description:
-We divide  our whole simulator page into three pane. On the top of first pane text box will appear in which user has to provide some parameter values of a shape which can be a radius of a circle or length of sides of a shape in order to compute the area of corresponding shape.. This text box is immediately followed by start button then followed by previous and next buttons.<br>
+We divide  our whole simulator page into three pane. On the top of first pane text box will appear in which user has to provide some parameter values of a shape which can be a radius of a circle or length of sides of a shape in order to compute the area of corresponding shape.. This text box is immediately followed by start button then followed by previous, next and reset buttons.<br>
 In the second pane user observes the code snippet on the basis of number of parameters given by the given. This pane also helps the student to understand the concept of polymorphism by providing the logical explanation of the output i.e. how the area is being calculated.<br>
 When the logical explanation will be completed the area of the corresponding shape will be displayed in the last pane i.e third pane.
 
@@ -30,7 +30,14 @@ When the logical explanation will be completed the area of the corresponding sha
 
 #### 2.3 Set the Pathway Activities:
 
-Describe the pathway activites here : (Guide : Set the pathway activities in line with the learning objectives (LOs)  & with a view to achieve the goals set in round #0 & round#1.  (once he begins, how he will traverse through the entire experiment ? in descriptive))
+1)	User has to provide the parameter values of a shape (can be a radius of a circle or length of sides of a shape) in the text box provided in the first pane of the simulator.<br>
+2)	Click on the “Start” button. It takes you to second pane in which whole code snippet is displayed. <br>
+3)	 Click on “next “button. It displays code snippet after matching the signature of called method with overloaded method.<br>
+4)	Click on “next “button. It provides the logical explanation of the output i.e. how the area is being calculated.<br>
+5)	Click on “Next” button. The area of the corresponding shape is displayed as output in the third pane, with the end of logical explanation.  <br>
+6)	At any step user can use “Previous” button in order to see the previous logic again.<br>
+7)	User can use “Reset” button to calculate the area of another shape.<br>
+
 
 ##### 2.4 Set Challenges and Questions/Complexity/Variations in Questions:
 

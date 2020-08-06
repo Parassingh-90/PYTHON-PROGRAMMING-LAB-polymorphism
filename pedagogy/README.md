@@ -43,7 +43,7 @@ Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 
 <u> <b>Description: </b> of how you are going to implement the above Instructional Strategy in your Simulator: </u>
 <br>
- Input the value of radius or generate random value of radius to compute area and show step by step working of program.
+ Input the parameter values and compute the corresponding area and show logical explanation for the result produced.
 
 <br/>
 <div align="right">

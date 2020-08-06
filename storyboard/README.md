@@ -1,7 +1,7 @@
 ## Storyboard (Round 2)
 
 
-Experiment 1: Write a program in python to calculate the area of circle, square and triangle using polymorphism.
+Experiment 1: Write a program in python to calculate the area of circle, rectangle and triangle using polymorphism.
 
 ### 1. Story Outline:
 

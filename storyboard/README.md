@@ -17,7 +17,9 @@ In Python, we can create a method that can be called in different ways. So, we c
 
 
 #### 2.1 Set the Visual Stage Description:
-Describe here : (guide When a user lands up into a simulator, the visual stage is the first thing that user comes across. The visual stage should include all the elements to be seen by a user on an imaginary canvas.  (This should NOT include any drawings. ) )
+We divide  our whole simulator page into three pane. On the top of first pane text box will appear in which user has to provide some parameter values of a shape which can be a radius of a circle or length of sides of a shape in order to compute the area of corresponding shape.. This text box is immediately followed by start button then followed by previous and next buttons.<br>
+In the second pane user observes the code snippet on the basis of number of parameters given by the given. This pane also helps the student to understand the concept of polymorphism by providing the logical explanation of the output i.e. how the area is being calculated.<br>
+When the logical explanation will be completed the area of the corresponding shape will be displayed in the last pane i.e third pane.
 
 #### 2.2 Set User Objectives & Goals:
 1.	The prime objective of the experiment is to demonstrate Polymorphism in python and how it allows us to perform a single action in different ways.<br>

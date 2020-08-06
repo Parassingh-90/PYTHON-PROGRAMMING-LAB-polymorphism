@@ -2,7 +2,7 @@
 
 Delete this line before submission : The core principle of Round 2 is to make the lab/experiment documentation elaborated in a manner that it makes easy for any person (developer/domain and non domain faculty/student) to understand and develop the lab/experiment.
 
-Experiment 1: Name of the Experiment
+Experiment 1: Write a program in python to calculate the area of circle, square and triangle using polymorphism.
 
 ### 1. Story Outline:
 
@@ -34,7 +34,7 @@ Describe conclusion here : (guide: This may include displaying: how much time di
 
 ##### 2.7 Equations/formulas: NA
 <a href="https://www.codecogs.com/eqnedit.php?latex=\bg_white&space;Area&space;of&space;circle&space;=&space;\prod*r^{2}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\bg_white&space;Area&space;of&space;circle&space;=&space;\prod*r^{2}" title="Area of circle = \prod*r^{2}" /></a>
-
+<a href="https://www.codecogs.com/eqnedit.php?latex=Area&space;of&space;square=&space;side*side" target="_blank"><img src="https://latex.codecogs.com/gif.latex?Area&space;of&space;square=&space;side*side" title="Area of square= side*side" /></a>
 
 ### 3. Flowchart 4
 <img src="flowchart/Flowchart.png"/><br>

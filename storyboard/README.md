@@ -33,10 +33,7 @@ Describe the pitfalls here: (guide : (while traversing or while solving challeng
 Describe conclusion here : (guide: This may include displaying: how much time did the user take to solve the questions/ How many questions were right?/ How many hints did the learner use. Based on this the evaluation/marking to be suggested to the user. (once he is towards the completion of the experiment, what LO he is taking along with him, what will be his probable, interpretation/conclusion , descriptive) )
 
 ##### 2.7 Equations/formulas: NA
-Area of Square: 
-\begin{equation}
-A=Side^2
-\end{equation}
+<a href="https://www.codecogs.com/eqnedit.php?latex=\bg_white&space;Area&space;of&space;circle&space;=&space;\prod*r^{2}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\bg_white&space;Area&space;of&space;circle&space;=&space;\prod*r^{2}" title="Area of circle = \prod*r^{2}" /></a>
 
 
 ### 3. Flowchart 4

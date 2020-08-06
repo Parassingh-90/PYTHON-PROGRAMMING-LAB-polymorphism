@@ -18,7 +18,9 @@ Whenever the overloaded function is called the control matches the signature of 
 Describe here : (guide When a user lands up into a simulator, the visual stage is the first thing that user comes across. The visual stage should include all the elements to be seen by a user on an imaginary canvas.  (This should NOT include any drawings. ) )
 
 #### 2.2 Set User Objectives & Goals:
-Describe the objectives and goals in details here : (guide : The user should clearly understand the aims and objective of the experiment. ( how he will begin experiment. ?  in descriptive))
+1. The prime objective of the experiment is to demonstrate Polymorphism in python. <br>
+2. To explain the working of method overloading. <br>
+3. To calculate the area of different shapes using method overloading. <br>
 
 #### 2.3 Set the Pathway Activities:
 

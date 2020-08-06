@@ -39,7 +39,11 @@ A. def getArea(var1,var2):<br>
 <b>B. def getArea(var1):</b><br>
 C. def getArea():<br>
 D. First declared definition of overloaded method<br>
-E. None of the above<br> 
+E. None of the above<br><br>
+
+Q. Can we overload a method with same number of arguments?<br>
+A. YES<br>
+<b>B. NO </b><br>
 
 ##### 2.5 Allow pitfalls:
 Describe the pitfalls here: (guide : (while traversing or while solving challenge, how will we bring a situation in front of him that he commits mistake if he is not attentive , or not following procedure , descriptive))

@@ -67,5 +67,5 @@ Describe the pitfalls here: (guide : (while traversing or while solving challeng
  <br>
 
 ### 5. Storyboard :
-Storyboard: <a href="Storyboard/storyboard.gif"> [here]</a>
+Storyboard: <a href="storyboard/storyboard.gif"> [here]</a>
 

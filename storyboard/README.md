@@ -1,6 +1,5 @@
 ## Storyboard (Round 2)
 
-Delete this line before submission : The core principle of Round 2 is to make the lab/experiment documentation elaborated in a manner that it makes easy for any person (developer/domain and non domain faculty/student) to understand and develop the lab/experiment.
 
 Experiment 1: Write a program in python to calculate the area of circle, square and triangle using polymorphism.
 
@@ -41,7 +40,7 @@ Describe the pitfalls here: (guide : (while traversing or while solving challeng
 2. This would prompt the users as to how many answers were correctly answered.
 3. Marks maybe assigned to each question which would enable the student to calculate his performance.
 
-##### 2.7 Equations/formulas: NA
+##### 2.7 Equations/formulas: 
 <a href="https://www.codecogs.com/eqnedit.php?latex=\bg_white&space;Area&space;of&space;circle&space;=&space;\prod*r^{2}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\bg_white&space;Area&space;of&space;circle&space;=&space;\prod*r^{2}" title="Area of circle = \prod*r^{2}" /></a>
 <br>
 <a href="https://www.codecogs.com/eqnedit.php?latex=Area&space;of&space;Rectangle:&space;length&space;\ast&space;breadth" target="_blank"><img src="https://latex.codecogs.com/gif.latex?Area&space;of&space;Rectangle:&space;length&space;\ast&space;breadth" title="Area of Rectangle: length \ast breadth" /></a>
@@ -50,7 +49,7 @@ Describe the pitfalls here: (guide : (while traversing or while solving challeng
 <br>
 <a href="https://www.codecogs.com/eqnedit.php?latex=Where&space;(p)&space;is:&space;\frac{(a&plus;b&plus;c)}{2}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?Where&space;(p)&space;is:&space;\frac{(a&plus;b&plus;c)}{2}" title="Where (p) is: \frac{(a+b+c)}{2}" /></a>
 
-### 3. Flowchart 4
+### 3. Flowchart 
 <img src="flowchart/Flowchart.png"/><br>
 <br>
 
@@ -60,5 +59,4 @@ Describe the pitfalls here: (guide : (while traversing or while solving challeng
 
 ### 5. Storyboard :
 Storyboard: <a href="Storyboard/carwiper.gif"> [here]</a>
-Link to storybaord (.gif file ) here :
-(guide: This document should include sketching and description scene wise (duration, action, description). Software to be used for storyboarding : https://wonderunit.com/storyboarder/ (Its a FOSS tool) . tutorial on how to use it https://www.youtube.com/watch?v=LAeCEpG0KX4
+

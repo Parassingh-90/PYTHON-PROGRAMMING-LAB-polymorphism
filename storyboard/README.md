@@ -38,7 +38,7 @@ Tool can be used to integrate formula in Markdown <b> [here](http://latex.codeco
 
 
 ### 3. Flowchart 4
-<img src="flowchart/flowchart.png"/><br>
+<img src="flowchart/Flowchart.png"/><br>
 <br>
 
 ### 4. Mindmap:

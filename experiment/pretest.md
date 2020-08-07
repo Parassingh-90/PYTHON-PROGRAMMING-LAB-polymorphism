@@ -1,5 +1,5 @@
 ## <b> Pre-test
-#### Please attempt the following questions
+#### Please attempt the following questions</b>
 
 Q)Which function is used to take space separated inputs in a list?<br>
 a) split ()<br>

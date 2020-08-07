@@ -54,7 +54,7 @@ Q. Can we overload a method with same number of arguments in python?<br>
 A. YES<br>
 <b>B. NO </b><br><br>
 
-Difficulty Level : Apply<br>
+Difficulty Level : Analyze<br>
 Q. Assume a method getArea() is overloaded, having 0, 1 and 2 parameters respectively. Which of the definition of overloaded method is more likely to be executed if overloaded method is called in such a way : getArea(0) ?<br>
 A. def getArea(var1,var2):<br>
 <b>B. def getArea(var1):</b><br>

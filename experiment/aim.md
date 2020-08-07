@@ -1,2 +1,1 @@
-## <b>AIM</b>
-<p>Must be able to understand the concept of Polymorphism.</p>
+<p><b>AIM:</b>Must be able to understand the concept of Polymorphism.</p>

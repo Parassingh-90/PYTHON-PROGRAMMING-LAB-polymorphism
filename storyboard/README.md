@@ -63,7 +63,9 @@ D. First declared definition of overloaded method<br>
 E. None of the above<br><br>
 
 ##### 2.5 Allow pitfalls:
-Describe the pitfalls here: (guide : (while traversing or while solving challenge, how will we bring a situation in front of him that he commits mistake if he is not attentive , or not following procedure , descriptive))
+The pitfalls are designed to clear the misconceptions or incorrect knowledge about the concept of Polymorphism and method overloading in python. Student may get confused about the working of method overloading. Scenario based questions shall be asked in order to remove all the misconceptions.
+
+
 
 ##### 2.6 Conclusion:
 1. Assessment/evaluation of the pre-test and post-test should be given immediately to the user. The moment the student clicks on the answer of his choice, the CORRECT ANSWER should be displayed below the question. This would enable the student to understand whether he is right or wrong.

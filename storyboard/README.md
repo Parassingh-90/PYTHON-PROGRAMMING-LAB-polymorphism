@@ -41,22 +41,26 @@ When the logical explanation will be completed the area of the corresponding sha
 
 ##### 2.4 Set Challenges and Questions/Complexity/Variations in Questions:
 
+
+Difficulty Level : Recall
+Q. For Overloading a method in python requires :<br>
+<b>A. Different number of arguments</b><br>
+B. Different return types<br>
+C. Both<br>
+D. None of the above<br><br>
+
+Difficulty Level : Understand
+Q. Can we overload a method with same number of arguments in python?<br>
+A. YES<br>
+<b>B. NO </b><br><br>
+
+Difficulty Level : Apply
 Q. Assume a method getArea() is overloaded, having 0, 1 and 2 parameters respectively. Which of the definition of overloaded method is more likely to be executed if overloaded method is called in such a way : getArea(0) ?<br>
 A. def getArea(var1,var2):<br>
 <b>B. def getArea(var1):</b><br>
 C. def getArea():<br>
 D. First declared definition of overloaded method<br>
 E. None of the above<br><br>
-
-Q. Can we overload a method with same number of arguments in python?<br>
-A. YES<br>
-<b>B. NO </b><br><br>
-
-Q. For Overloading a method in python requires :<br>
-<b>A. Different number of arguments</b><br>
-B. Different return types<br>
-C. Both<br>
-D. None of the above<br>
 
 ##### 2.5 Allow pitfalls:
 Describe the pitfalls here: (guide : (while traversing or while solving challenge, how will we bring a situation in front of him that he commits mistake if he is not attentive , or not following procedure , descriptive))

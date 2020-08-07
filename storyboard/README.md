@@ -42,26 +42,25 @@ When the logical explanation will be completed the area of the corresponding sha
 ##### 2.4 Set Challenges and Questions/Complexity/Variations in Questions:
 
 
-Difficulty Level : Recall<br>
 Q. For Overloading a method in python requires :<br>
 <b>A. Different number of arguments</b><br>
 B. Different return types<br>
 C. Both<br>
 D. None of the above<br>
 
-Difficulty Level : Understand<br>
+
 Q. Can we overload a method with same number of arguments in python?<br>
 A. YES<br>
 <b>B. NO </b><br>
 
-Difficulty Level : Apply<br>
+
 Q. How can we get the area of a square?<br>
 A. By passing one argument<br>
 <b>B. By passing two same argument</b><br>
 C. Cannot be calculated<br>
 D. None of the above<br>
 
-Difficulty Level : Analyze<br>
+
 Q. Assume a method getArea() is overloaded, having 0, 1 and 2 parameters respectively. Which of the definition of overloaded method is more likely to be executed if overloaded method is called in such a way : getArea(0) ?<br>
 A. def getArea(var1,var2):<br>
 <b>B. def getArea(var1):</b><br>

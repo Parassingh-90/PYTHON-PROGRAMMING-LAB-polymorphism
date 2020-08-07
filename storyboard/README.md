@@ -48,7 +48,7 @@ C. def getArea():<br>
 D. First declared definition of overloaded method<br>
 E. None of the above<br><br>
 
-Q. Can we overload a method with same number of arguments?<br>
+Q. Can we overload a method with same number of arguments in python?<br>
 A. YES<br>
 <b>B. NO </b><br>
 

@@ -63,8 +63,13 @@ D. First declared definition of overloaded method<br>
 E. None of the above<br><br>
 
 ##### 2.5 Allow pitfalls:
-The pitfalls are designed to clear the misconceptions or incorrect knowledge about the concept of Polymorphism and method overloading in python. Student may get confused about the working of method overloading. Scenario based questions shall be asked in order to remove all the misconceptions.
+The pitfalls are designed to clear the misconceptions or incorrect knowledge about the concept of Polymorphism and method overloading in python. Student may get confused about the working of method overloading. Scenario based questions shall be asked in order to remove all the misconceptions.<br>
 
+Q. What will happen if signature of called method doesn't match with any overloaded method?<br>
+A. Execution of definition with most similar signature<br>
+B. No Output<br>
+<b>C. Error</b><br>
+D. None of the above<br><br>
 
 
 ##### 2.6 Conclusion:

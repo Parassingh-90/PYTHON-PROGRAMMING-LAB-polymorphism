@@ -102,5 +102,5 @@ D. None of the above<br>
  <br>
 
 ### 5. Storyboard :
-Storyboard: <a href="storyboard/storyboard.gif"> [here]</a>
 <img src="storyboard/storyboard.gif"/>
+<br>

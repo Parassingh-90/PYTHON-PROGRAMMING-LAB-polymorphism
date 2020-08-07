@@ -1,32 +1,27 @@
 ## Post test
-<br>
-Q 1. What will happen, if the glass plate is replaced with plane mirror?<br>
-<b>a. There will be no interference fringe<br></b>
-b. There will be interference fringe<br>
-c. colored fringes will be observed<br>
-d. None of the options<br><br>
+Q)Which function is used to take space separated inputs in a list?<br>
+a) split ()<br>
+b) lambda<br>
+<b>c) map ()</b><br>
+d) input () <br>
+Q)Which keyword is used for function in python?<br>
+a) function<br>
+<b>b) def</b><br>
+c) define<br>
+d) fun<br>
+Q)Which function is used to calculate the length of list?<br>
+<b>a) len ()</b><br>
+b) range()<br>
+c) push()<br>
+d) pop()<br>
+Q)______ refers to the mathematical function?<br>
+a) add<br>
+b) power<br>
+<b>c) sqrt</b><br>
+d) rhombus<br>
+Q)Which is not a data type in python?<br>
+a) integer<br>
+b) tuple<br>
+c) list<br>
+<b>d) char</b><br>
 
-Q 2. What will happen, if sodium light is replaced with white light?<br>
-a. There will be no interference fringe<br>
-b. There will be interference fringe<br>
-<b>c. colored fringes will be observed<br></b>
-d. No change in pattern is visible<br>
-
-Q 3. What will appear, if in place of lens, a plane glass making some angle with the glass stripe  is used?<br>
-<b>a. Alternate dark and bright fringes in shape of a straight line.<br></b>
-b. triangular interference pattern<br>
-c. colored fringes will be observed<br>
-d. No change in pattern is visible<br>
-
-Q 4. Colours observed in thin film are because of ________________<br>
-a. Diffraction<br>
-<b>b. Interference<br></b>
-c. Polarization<br>
-d. None of the options<br>
-
-Q 5.  In Newton’s rings experiment, rings are formed when the light is ________________ by
-lower surface of the lens and upper surface of the glass plate, interfere.<br>
-a. Reflected<br>
-<b>b. Refracted<br></b>
-c. Transmitted<br>
-d. None<br></b>

@@ -1,4 +1,4 @@
-## <b> Pre-test</b>
+## <b> THEORY</b>
 <p>Polymorphism is derived from two Greek words: poly and morphs. The word "poly" means many and "morphs" means forms. So, polymorphism means many forms. Polymorphism is a concept by which we can perform a single action in different ways. An operation may exhibit different behavior in different class. The behavior depends on the type of data. We can perform polymorphism in python by method overloading and method overriding. Here, we will focus on method overloading. Method overloading in Python is a feature that allows to have multiple method with same name but different signature. Overloading is the ability of a method to behave in different ways based on the parameters that are passed to the method.<br>
 Advantage of method overloading are :<br>
 • Overloading a method fosters reusability. For example, instead of writing multiple methods that differ only slightly, we can write one method and overload it.<br>

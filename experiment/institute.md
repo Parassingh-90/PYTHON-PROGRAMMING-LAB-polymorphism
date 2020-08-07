@@ -1,1 +1,1 @@
-#### <!-- United College of Engineering & Research UCER -->
+#### <!-- United College of Engineering & Research -->

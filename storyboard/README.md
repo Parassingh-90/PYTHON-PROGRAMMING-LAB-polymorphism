@@ -69,20 +69,18 @@ C. def getArea():<br>
 D. First declared definition of overloaded method<br>
 E. None of the above<br>
 
-##### 2.5 Allow pitfalls:
-The pitfalls are designed to clear the misconceptions or incorrect knowledge about the concept of Polymorphism and method overloading in python. Student may get confused about the working of method overloading. Scenario based questions shall be asked in order to remove all the misconceptions.<br>
-
 Q. What will happen if signature of called method doesn't match with any overloaded method?<br>
 A. Execution of definition with most similar signature<br>
 B. No Output<br>
 <b>C. Error</b><br>
 D. None of the above<br>
 
-Q. What is the reason behind the execution of different definition of overloaded method?<br>
-<b>A. Number of Parameters</b><br>
-B. Order of definition of overloaded method<br>
-C. Both can be a reason<br>
-D. None of the above<br>
+##### 2.5 Allow pitfalls:
+The pitfalls are designed to clear the misconceptions or incorrect knowledge about the concept of Polymorphism and method overloading in python. Student may get confused about the working of method overloading. Scenario based questions shall be asked in order to remove all the misconceptions.<br>
+
+
+
+
 
 
 ##### 2.6 Conclusion:

@@ -1,3 +1,6 @@
+## <b> Pre-test
+#### Please attempt the following questions</b>
+
 Q)Which of the following statements is most accurate for the declaration x = Circle()?<br>
 a) x contains an int value.<br>
 b) x contains an object of the Circle type.<br>
@@ -15,9 +18,9 @@ c) ability to take more than one form.<br>
 d) ability to acquire feature of superclass.<br><br>
 Q)Which among the following is not true for polymorphism?<br>
 a) It is feature of OOP.<br>
-b) Ease in readability of program<br>
+b) Ease in readability of program.<br>
 c) Helps in redefining the same functionality.<br>
-<b>d) Increases overhead of function definition always<br></b>
+<b>d) Increases overhead of function definition always.</b><br><br>
 Q)Polymorphism is possible in C language.<br>
 a) True<br>
 <b>b) False<br></b>

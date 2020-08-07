@@ -76,9 +76,9 @@ B. No Output<br>
 D. None of the above<br>
 
 ##### 2.5 Allow pitfalls:
-1. The pitfalls are designed to clear the misconceptions or incorrect knowledge about the concept of Polymorphism and method overloading in python.<br>
-2. The simulator will be able to clear the misconception about the working of method overloading.<br>
-3. Student may expect different outputs on the different data-type inputs (for eg 5 & 5.0). The simulator will be able to remove this misconception.<br>
+1. The simulator will be able to clear the misconception about the working of method overloading.<br>
+2. Student may expect different outputs on the different data-type inputs (for eg 5 & 5.0). The students will not get the required outcome.<br>
+3. The students will get an opportunity for trying different things with the simulator with an empty parameter input box.<br>
 
 ##### 2.6 Conclusion:
 1. Assessment/evaluation of the pre-test and post-test should be given immediately to the user. The moment the student clicks on the answer of his choice, the CORRECT ANSWER should be displayed below the question. This would enable the student to understand whether he is right or wrong.

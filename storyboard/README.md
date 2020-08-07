@@ -50,7 +50,13 @@ E. None of the above<br><br>
 
 Q. Can we overload a method with same number of arguments in python?<br>
 A. YES<br>
-<b>B. NO </b><br>
+<b>B. NO </b><br><br>
+
+Q. For Overloading a method in python requires :<br><br>
+<b>A. Different number of arguments</b><br>
+B. Different return types<br>
+C. Both<br>
+D. None of the above<br>
 
 ##### 2.5 Allow pitfalls:
 Describe the pitfalls here: (guide : (while traversing or while solving challenge, how will we bring a situation in front of him that he commits mistake if he is not attentive , or not following procedure , descriptive))

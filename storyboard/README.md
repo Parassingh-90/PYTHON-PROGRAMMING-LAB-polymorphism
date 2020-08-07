@@ -17,8 +17,8 @@ In Python, we can create a method that can be called in different ways. So, we c
 
 
 #### 2.1 Set the Visual Stage Description:
-We divide  our whole simulator page into three pane. On the top of first pane text box will appear in which user has to provide some parameter values of a shape which can be a radius of a circle or length of sides of a shape in order to compute the area of corresponding shape.. This text box is immediately followed by start button then followed by previous, next and reset buttons.<br>
-In the second pane user observes the code snippet on the basis of number of parameters given by the given. This pane also helps the student to understand the concept of polymorphism by providing the logical explanation of the output i.e. how the area is being calculated.<br>
+We divide  our whole simulator page into three pane. On the top of first pane text box will appear in which user has to provide some parameter values of a shape which can be a radius of a circle or length of sides of a shape in order to compute the area of corresponding shape. This text box is immediately followed by start button then followed by previous, next and reset buttons.<br>
+In the second pane user observes the code snippet on the basis of number of parameters given by the user. This pane also helps the student to understand the concept of polymorphism by providing the logical explanation of the output i.e. how the area is being calculated.<br>
 When the logical explanation will be completed the area of the corresponding shape will be displayed in the last pane i.e third pane.
 
 #### 2.2 Set User Objectives & Goals:

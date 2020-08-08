@@ -90,27 +90,58 @@
 
   const myQuestions = [
     {
-      question: "This is question 1?",  ///// Write the question inside double quotes
+      question: "Which of the following statements is most accurate for the declaration x = Circle()?",  ///// Write the question inside double quotes
       answers: {
-        a: "Option 1",                  ///// Write the option 1 inside double quotes
-        b: "Option 2",                  ///// Write the option 2 inside double quotes
-        c: "Option 3",                  ///// Write the option 3 inside double quotes
-        d: "Option 4"                   ///// Write the option 4 inside double quotes
+        a: "x contains an int value.",                  ///// Write the option 1 inside double quotes
+        b: "x contains an object of the Circle type.",                  ///// Write the option 2 inside double quotes
+        c: "x contains a reference to a Circle object.",                  ///// Write the option 3 inside double quotes
+        d: "You can assign an int value to x."                   ///// Write the option 4 inside double quotes
       },
-      correctAnswer: "a"                ///// Write the correct option inside double quotes
+      correctAnswer: "c"                ///// Write the correct option inside double quotes
     },
 
     {
-      question: "This is question 2?",  ///// Write the question inside double quotes
+      question: "If same message is passed to objects of several different classes and all of those can respond in a different way, what is this feature called?",  ///// Write the question inside double quotes
       answers: {
-        a: "Option 1",                  ///// Write the option 1 inside double quotes
-        b: "Option 2",                  ///// Write the option 2 inside double quotes
-        c: "Option 3",                  ///// Write the option 3 inside double quotes
-        d: "Option 4"                   ///// Write the option 4 inside double quotes
+        a: "Inheritance",                  ///// Write the option 1 inside double quotes
+        b: "Overloading",                  ///// Write the option 2 inside double quotes
+        c: "Polymorphism",                  ///// Write the option 3 inside double quotes
+        d: "Overriding"                   ///// Write the option 4 inside double quotes
       },
-      correctAnswer: "b"                ///// Write the correct option inside double quotes
+      correctAnswer: "c"                ///// Write the correct option inside double quotes
     },                                  ///// To add more questions, copy the section below 
     									                  ///// this line
+    
+     {
+      question: "What do you mean by method overloading?",  ///// Write the question inside double quotes
+      answers: {
+        a: "multiple method having same name but different signature.",                  ///// Write the option 1 inside double quotes
+        b: "multiple method having same name and same signature.",                  ///// Write the option 2 inside double quotes
+        c: "ability to take more than one form.",                                    ///// Write the option 3 inside double quotes
+        d: "ability to acquire feature of superclass."                              ///// Write the option 4 inside double quotes
+      },
+      correctAnswer: "a"                ///// Write the correct option inside double quotes
+    },       
+    
+     {
+      question: "Which among the following is not true for polymorphism?",  ///// Write the question inside double quotes
+      answers: {
+        a: "It is feature of OOP.",                  ///// Write the option 1 inside double quotes
+        b: "Ease in readability of program.",                  ///// Write the option 2 inside double quotes
+        c: "Helps in redefining the same functionality.",                  ///// Write the option 3 inside double quotes
+        d: "Increases overhead of function definition always."                   ///// Write the option 4 inside double quotes
+      },
+      correctAnswer: "d"                ///// Write the correct option inside double quotes
+    },       
+    
+     {
+      question: "Polymorphism is possible in C language.",  ///// Write the question inside double quotes
+      answers: {
+        a: "True",                  ///// Write the option 1 inside double quotes
+        b: "False",                  ///// Write the option 2 inside double quotes
+      },
+      correctAnswer: "b"                ///// Write the correct option inside double quotes
+    },       
 
 
     /* To add more MCQ's, copy the below section, starting from open curly braces ( { )

@@ -78,7 +78,6 @@
 	border: 3px solid #000000;
 	border-radius:10%;
 	font-size:30px;
-	color:red;
 	text-align:center;
 	padding-top: 30px;
 	font-family: Tahoma, sans-serif;
@@ -210,7 +209,7 @@ function setshape(){
         image.src='images/default.jpg';
 	}
 	//console.log(area);
-	 setoutpic(); //Manage function calling
+	 
     
 }
 
@@ -251,7 +250,10 @@ function next(){
 		if(flag==3){
 			image.src = directory+triangle[count];
 		}
-        }        
+        }   
+	if(count==2){
+		setoutpic();
+	}
 		
 	}
 }

@@ -26,8 +26,8 @@
 
 Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 :--|:--|:--|:-:
-1.| User will be able to: <br>understand the concept of polymorphism and give example. |understand | understand
-2.| User will be able to: <br>apply the concept of polymorphism <br> and solve the problem. | apply | apply
+1.| User will be able to: <br>understand the concept of polymorphism.|understand | Give example of
+2.| User will be able to: <br>apply the concept of polymorphism <br> and solve the problem. | apply | Apply
 
 <br/>
 <div align="right">

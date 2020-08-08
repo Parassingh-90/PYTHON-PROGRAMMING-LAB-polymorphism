@@ -1,1 +1,1 @@
-#### <!-- United College of Engineering & Research -->
+#### United College of Engineering & Research

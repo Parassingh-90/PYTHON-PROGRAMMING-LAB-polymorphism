@@ -6,7 +6,7 @@
 
 <b>Discipline | <b>Computer Science Engineering & Information Technology 
 :--|:--|
-<b> Lab | <b> PYTHON PROGRAMMING LAB
+<b> Lab | <b> PYTHON PROGRAMMING LAB(Untouched Concept)
 <b> Experiment|     <b> 1. Calculate the area of circle, rectangle and triangle using polymorphism.
 
 

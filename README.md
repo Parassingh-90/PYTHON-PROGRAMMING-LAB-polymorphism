@@ -1,7 +1,7 @@
 ## Introduction (Round 0)
 <b>Discipline | <b>Computer Science & Engineering
 :--|:--|
-<b> Lab | <b>PYTHON PROGRAMMING LAB
+<b> Lab | <b>PYTHON PROGRAMMING LAB(Untouched Concept)
 <b> Experiment|  <b>1•	Write a program in python to calculate the area of circle, rectangle and triangle using polymorphism.
 <h5> About the Lab (Objective) :</h5>
 This lab is all about the programming language Python.

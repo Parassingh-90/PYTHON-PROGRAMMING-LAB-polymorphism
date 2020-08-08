@@ -90,28 +90,62 @@
 
   const myQuestions = [
     {
-      question: "This is question 1?",  ///// Write the question inside double quotes
+      question: "Which function is used to take space separated inputs in a list?",  ///// Write the question inside double quotes
       answers: {
-        a: "Option 1",                  ///// Write the option 1 inside double quotes
-        b: "Option 2",                  ///// Write the option 2 inside double quotes
-        c: "Option 3",                  ///// Write the option 3 inside double quotes
-        d: "Option 4"                   ///// Write the option 4 inside double quotes
+        a: "split ()",                  ///// Write the option 1 inside double quotes
+        b: "lambda",                  ///// Write the option 2 inside double quotes
+        c: "map()",                  ///// Write the option 3 inside double quotes
+        d: "input()"                   ///// Write the option 4 inside double quotes
       },
-      correctAnswer: "a"                ///// Write the correct option inside double quotes
+      correctAnswer: "c"              ///// Write the correct option inside double quotes
     },
 
     {
-     question: "This is question 2?",  ///// Write the question inside double quotes
+     question: "Which keyword is used for function in python?",  ///// Write the question inside double quotes
       answers: {
-        a: "Option 1",                  ///// Write the option 1 inside double quotes
-        b: "Option 2",                  ///// Write the option 2 inside double quotes
-        c: "Option 3",                  ///// Write the option 3 inside double quotes
-        d: "Option 4"                   ///// Write the option 4 inside double quotes
+        a: "function",                  ///// Write the option 1 inside double quotes
+        b: "def",                  ///// Write the option 2 inside double quotes
+        c: "define",                  ///// Write the option 3 inside double quotes
+        d: "fun"                   ///// Write the option 4 inside double quotes
       },
       correctAnswer: "b"                ///// Write the correct option inside double quotes
     },                                  ///// To add more questions, copy the section below 
     									                  ///// this line
-
+   {
+      question: "Which function is used to calculate the length of list?",     ///// Write the question inside double quotes
+      answers: {
+        a: "len()",                   ///// Write the option 1 inside double quotes
+        b: "range()",                 ///// Write the option 2 inside double quotes
+        c: "push()",                  ///// Write the option 3 inside double quotes
+        d: "pop()"                    ///// Write the option 4 inside double quotes
+      },
+      correctAnswer: "a"              ///// Write the correct option inside double quotes
+    },
+    
+    {
+      question: "______ refers to the mathematical function?",                ///// Write the question inside double quotes
+      answers: {
+      answers: {
+        a: "add",                     ///// Write the option 1 inside double quotes            
+        b: "power",                   ///// Write the option 2 inside double quotes
+        c: "sqrt",                    ///// Write the option 3 inside double quotes
+        d: "rhombus"                  ///// Write the option 4 inside double quotes
+      },
+      correctAnswer: "c"               ///// Write the correct option inside double quotes
+    },
+    
+    {
+      question: "Which is not a data type in python?",                ///// Write the question inside double quotes
+      answers: {
+        a: "integer",                     ///// Write the option 1 inside double quotes            
+        b: "tuple",                   ///// Write the option 2 inside double quotes
+        c: "list",                    ///// Write the option 3 inside double quotes
+        d: "char"                  ///// Write the option 4 inside double quotes
+      },
+      correctAnswer: "d"               ///// Write the correct option inside double quotes
+    },
+    
+   
 
     /* To add more MCQ's, copy the below section, starting from open curly braces ( { )
         till closing curly braces comma ( }, )
@@ -136,9 +170,7 @@
 
     */
 
-
-
-
+    
   ];
 
 

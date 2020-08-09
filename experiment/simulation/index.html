@@ -197,7 +197,7 @@ var directory="images/";
 var area=0;
 var array;
 function setshape(){
-	var str=document.getElementById("inputa").value;
+	var str=document.getElementById("inputa").value.trim();
 	array = str.split(" ");
 	if(array.length>3 || str.trim()==""){
 		alert("Invalid Number of Parameters"); 

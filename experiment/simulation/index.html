@@ -202,7 +202,8 @@ function setshape(){
 	var error=false;
 	for(var i=0;i<array.length;i++)
     	{
-        	if(Number.isNaN(array[i])){error=true;break;}
+		console.log(isNaN(array[i]))
+        	if(isNaN(array[i])){error=true;break;}
     	}
 	if(array.length>3 || str.trim()==""){
 		//alert("Invalid Number of Parameters"); 

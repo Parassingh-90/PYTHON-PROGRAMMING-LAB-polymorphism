@@ -137,6 +137,7 @@
                 </div>
 		    <br>
 		    <br>
+		    <span id="quizalert" style="color:red;"></span><br><br>
 		<img src="images/defaultout.png" id="shapepic" width="80%" height="80%"/>
                 <!-- <div>Output</div> -->
 		<br>
@@ -369,6 +370,7 @@ function next(){
             console.log(count);            
             image.src = directory+'full_code.jpg';                        
             document.getElementById('outputa').innerHTML=area; 
+	    document.getElementById('quizalert').innerHTML="Attempt the quiz given below!";
 	    document.getElementById("quizdiv").style.display = "block";
 		}
         else{

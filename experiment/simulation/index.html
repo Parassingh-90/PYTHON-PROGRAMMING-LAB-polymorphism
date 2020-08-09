@@ -261,7 +261,7 @@ function next(){
 }
 
 function prev(){
-	if(flag!=-1){
+	if(flag!=-1 && count>=0){
 		count=count-1;
 		if(count<0){
 			count=0;

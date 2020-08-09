@@ -104,9 +104,10 @@
         <div class="column" id="input">
             <center>
                 <h2 style="background-color: #ccc; height:50px ; margin-top: 0px; padding-top: 7px;border: 3px solid #000000 ;">Input</h2>
-                <form id="form1" onsubmit="return false;"><input type="text" id="inputa" name="inputa" placeholder="Input Dimensions"><br>
-                </form>
-		<p color:red> * Enter a random number for calculating area of figure with Min 1 input and Max 3  single space seperated inputs</p>
+                <form id="form1" onsubmit="return false;"><input type="text" id="inputa" name="inputa" placeholder="Input Dimensions">
+                <img src="images/icon.png" width="12"
+                    title="Enter a random number for calculating area of figure with Min 1 input and Max 3 space seperated inputs"><br>
+		</form>
                 <input type="button" value="Submit" id="submit">
                 <input type="button" value="Next" id="next" onclick="next()">
                 <input type="button" value="previous" id="prev" onclick="prev()">
@@ -156,7 +157,7 @@
         document.getElementById('prev').style.backgroundColor='#4CAF50';
         document.getElementById('submit').disabled=true;
         document.getElementById('submit').style.backgroundColor='grey';
-	//document.getElementById('inputa').disabled=true;
+	document.getElementById('inputa').disabled=true;
 	setshape();
     };
     document.getElementById('reset').onclick=function(){
@@ -168,7 +169,7 @@
         document.getElementById('submit').style.backgroundColor='#4CAF50';
 	document.getElementById('inputa').disabled=false;
         document.getElementById('form1').reset();     
-        document.getElementById('outputa').innerHTML='';
+        document.getElementById('outputa').value='';
         count=-1;
 	flag=-1;
         var image = document.getElementById('myImage');
@@ -188,10 +189,10 @@ var triangle=["Slide1.PNG","Slide2.jpg","Slide5.jpg","Slide8.jpg","Slide9.jpg","
 var shapes=["circle.jpg","rectangle.jpg","triangle.jpg"];
 var directory="images/";
 var area=0;
-
+var array;
 function setshape(){
 	var str=document.getElementById("inputa").value;
-	var array = str.split(" ");
+	array = str.split(" ");
 	if(array.length>3 || str.trim()==""){
 		alert("Invalid Number of Parameters"); 
         document.getElementById('reset').click();
@@ -250,13 +251,13 @@ function next(){
 	var text='';
 	if(count==3){
 		if(flag==1){
-			text='<b>Radius : </b><span id="radius">3</span><br>';
+			text='<br><b>Radius : </b><span id="radius">'+array[0]+'</span><br><br>';
 		}
 		else if(flag==2){
-			text='<b>Length : </b><span id="length">3</span><br><b>Breadth : </b><span id="breadth">4</span><br>';
+			text='<br><b>Length : </b><span id="length">'+array[0]+'</span><br><br><b>Breadth : </b><span id="breadth">'+array[1]+'</span><br><br>';
 		}
 		else if(flag==3){
-			text='<b>Side1 : </b><span id="side1">3</span><br><b>Side2 : </b><span id="side2">4</span><br><b>Side3 : </b><span id="side3">5</span><br>';
+			text='<br><b>Side1 : </b><span id="side1">'+array[0]+'</span><br><br><b>Side2 : </b><span id="side2">'+array[1]+'</span><br><br><b>Side3 : </b><span id="side3">'+array[2]+'</span><br>';
 		}
 		document.getElementById('parameters').innerHTML=text;
 	}		

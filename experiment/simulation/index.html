@@ -202,20 +202,20 @@ function setshape(){
 		count=-1;
         if (array.length==1) {
             area=3.14*array[0]*array[0];
-	    area="The area of circle = "+area;
+	    area="The area of circle is "+area;
             console.log(area);
             
         }
         else if (array.length==2) {
             area=array[0]*array[1];
-	     area="The area of rectangle = "+area;
+	     area="The area of rectangle is "+area;
             console.log(area);
         }
         else if(array.length==3){
             s=parseInt(array[0])+parseInt(array[1])+parseInt(array[2]);
             s=s/2;                  
             area=Math.sqrt(s*(s-array[0])*(s-array[1])*(s-array[2]));
-	    area="The area of triangle = "+area;
+	    area="The area of triangle is "+area;
             console.log(area);
         }
         var image = document.getElementById('myImage');

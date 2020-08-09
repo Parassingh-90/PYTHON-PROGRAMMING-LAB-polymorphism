@@ -199,11 +199,19 @@ var array;
 function setshape(){
 	var str=document.getElementById("inputa").value.trim();
 	array = str.split(" ");
+	var error=false;
+	for(var i=0;i<array.length;i++)
+    	{
+        	if(array[i].isNaN){error=true;break;}
+    	}
 	if(array.length>3 || str.trim()==""){
 		//alert("Invalid Number of Parameters"); 
 		 
         document.getElementById('reset').click();
 	document.getElementById('outputa').innerHTML="Invalid Number of Parameters";
+	}
+	else if(error){
+		document.getElementById('outputa').innerHTML="Invalid Number of Parameters";
 	}
 	else{
 		document.getElementById('outputa').innerHTML="";

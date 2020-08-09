@@ -202,7 +202,7 @@ function setshape(){
 	var error=false;
 	for(var i=0;i<array.length;i++)
     	{
-        	if(array[i].isNaN){error=true;break;}
+        	if(array[i].isNaN()){error=true;console.log(array[i].isNaN());break;}
     	}
 	if(array.length>3 || str.trim()==""){
 		//alert("Invalid Number of Parameters"); 
@@ -211,6 +211,7 @@ function setshape(){
 	document.getElementById('outputa').innerHTML="Invalid Number of Parameters";
 	}
 	else if(error){
+		console.log(error);
 		document.getElementById('outputa').innerHTML="Invalid Number of Parameters";
 	}
 	else{

@@ -72,12 +72,13 @@
                 width: 100%;
             }
         }
-	    textarea 
+	    .tex 
 	{
 	height: 120px;
 	border: 3px solid #000000;
 	border-radius:10%;
-	font-size:30px;
+	font-size:20px;
+	color:red;
 	text-align:center;
 	padding-top: 30px;
 	font-family: Tahoma, sans-serif;
@@ -125,12 +126,12 @@
         <div class="column col3" id="output">
             <center>
                 <h2 style="background-color: #ccc; height:50px ; margin-top: 0px; padding-top: 7px;border: 3px solid #000000 ;">Output</h2>
-                <textarea id='outputa' name='output' rows="3" cols="15" disabled>
+                <div class=tex id='outputa'>
 
-                </textarea>
+                </div>
 		    <br>
 		    <br>
-		<img src="images/defaultout.png" id="shapepic" width="100%" height="100%"/>
+		<img src="images/defaultout.png" id="shapepic" width="80%" height="80%"/>
                 <!-- <div>Output</div> -->
 		<br>
 		<div id="parameters">
@@ -260,7 +261,7 @@ function next(){
         if(count==6){
             console.log(count);            
             image.src = directory+'full_code.jpg';                        
-            document.getElementById('outputa').value=area;            
+            document.getElementById('outputa').innerHTML=area;            
 		}
         else{
             if(flag==1){            

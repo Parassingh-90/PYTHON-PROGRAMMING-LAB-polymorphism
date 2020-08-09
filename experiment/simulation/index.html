@@ -156,6 +156,7 @@
         document.getElementById('prev').style.backgroundColor='#4CAF50';
         document.getElementById('submit').disabled=true;
         document.getElementById('submit').style.backgroundColor='grey';
+	document.getElementById('inputa').disabled=true;
 	    setshape();
     };
     document.getElementById('reset').onclick=function(){
@@ -165,6 +166,7 @@
         document.getElementById('prev').style.backgroundColor='grey';
         document.getElementById('submit').disabled=false;
         document.getElementById('submit').style.backgroundColor='#4CAF50';
+	document.getElementById('inputa').disabled=false;
         document.getElementById('form1').reset();     
         document.getElementById('outputa').value='';
         count=-1;
@@ -174,6 +176,7 @@
 	var image2 = document.getElementById('shapepic');
 	image2.src="images/defaultout.png";
 	init();
+	document.getElementById('parameters').innerHTML='';
     };
 </script>
 <script>
@@ -240,7 +243,20 @@ function next(){
             console.log(count);
             
         }
-		var image = document.getElementById('myImage');
+	var image = document.getElementById('myImage');
+	var text='';
+	if(count==3){
+		if(flag==1){
+			text="<b>Radius : </b><span id="radius">3</span><br>";
+		}
+		else if(flag==2){
+			text="<b>Length : </b><span id="length">3</span><br><b>Breadth : </b><span id="breadth">4</span><br>";
+		}
+		else if(flag==3){
+			text="<b>Side1 : </b><span id="side1">3</span><br><b>Side2 : </b><span id="side2">4</span><br><b>Side3 : </b><span id="side3">5</span><br>";
+		}
+		document.getElementById('parameters').innerHTML=text;
+	}		
         if(count==6){
             console.log(count);            
             image.src = directory+'full_code.jpg';                        

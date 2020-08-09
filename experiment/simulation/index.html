@@ -201,8 +201,9 @@ function setshape(){
 	array = str.split(" ");
 	if(array.length>3 || str.trim()==""){
 		//alert("Invalid Number of Parameters"); 
-		 document.getElementById('outputa').innerHTML="Invalid Number of Parameters";
+		 
         document.getElementById('reset').click();
+	document.getElementById('outputa').innerHTML="Invalid Number of Parameters";
 	}
 	else{
 		flag=array.length;

@@ -65,6 +65,9 @@
             .column {
                 width: 100%;
             }
+	    .col3{
+		height: 700px;
+		}
         }
 	    .tex 
 	{

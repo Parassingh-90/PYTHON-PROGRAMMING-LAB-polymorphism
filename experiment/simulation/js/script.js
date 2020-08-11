@@ -285,9 +285,21 @@ if(document.getElementById("op53").checked==true){
 	document.getElementById("lop32").style.color = '#2fd677'; 
 	document.getElementById("lop42").style.color = '#2fd677'; 
 	document.getElementById("lop53").style.color = '#2fd677'; 
-
-	document.getElementById('score').innerHTML="Your score is "+qans+"/5.";
-	document.getElementById("score").style.color = 'black';
+	
+	//Rating according to number of correct answers
+	if(qans<=2){
+		document.getElementById('score').innerHTML="Beginner! Your score is "+qans+"/5.";
+		document.getElementById("score").style.color = 'black';
+	}
+	else if(qans<5 && qans>2){
+		document.getElementById('score').innerHTML="Amazing! Your score is "+qans+"/5.";
+		document.getElementById("score").style.color = 'blue';
+	}
+	else{
+		document.getElementById('score').innerHTML="Extraordinary! Your score is "+qans+"/5.";
+		document.getElementById("score").style.color = '#2fd677';
+	}
+	
 	document.getElementById('quizsubmit').disabled= true;
 	document.getElementById('quizsubmit').style.backgroundColor='grey';
 	}

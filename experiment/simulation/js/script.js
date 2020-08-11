@@ -289,7 +289,7 @@ if(document.getElementById("op53").checked==true){
 	//Rating according to number of correct answers
 	if(qans<=2){
 		document.getElementById('score').innerHTML="Beginner! Your score is "+qans+"/5.";
-		document.getElementById("score").style.color = 'black';
+		document.getElementById("score").style.color = 'red';
 	}
 	else if(qans<5 && qans>2){
 		document.getElementById('score').innerHTML="Amazing! Your score is "+qans+"/5.";
@@ -297,7 +297,7 @@ if(document.getElementById("op53").checked==true){
 	}
 	else{
 		document.getElementById('score').innerHTML="Extraordinary! Your score is "+qans+"/5.";
-		document.getElementById("score").style.color = '#2fd677';
+		document.getElementById("score").style.color = '#2fd677'; //light green
 	}
 	
 	document.getElementById('quizsubmit').disabled= true;

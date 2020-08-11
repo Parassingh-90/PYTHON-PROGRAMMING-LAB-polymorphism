@@ -96,7 +96,7 @@ function next(){
             console.log(count);            
             image.src = directory+'full_code.jpg';                        
             document.getElementById('outputa').innerHTML=area; 
-	    document.getElementById('quizalert').innerHTML="Attempt the quiz given below!";
+	    document.getElementById('quizalert').innerHTML="Attempt the task given below!";
 	    document.getElementById("quizdiv").style.display = "block";
 		}
         else{
